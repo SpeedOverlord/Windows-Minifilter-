@@ -1,0 +1,18 @@
+﻿  main.cpp
+c:\users\tim\desktop\sharelib\smf\smf\slib\spec\SIorq.h(82): warning C4311: '類型轉換': 指標值由 'HANDLE' 指派至 'int' 時會遭截斷
+c:\users\tim\desktop\sharelib\smf\smf\slib\spec\SIorq.h(82): warning C4302: '類型轉換': 從 'HANDLE' 轉換為 'int'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\tim\desktop\sharelib\smf\smf\slib\control\SPathAsker.h(100): warning C4312: '類型轉換': 將 'const int' 轉換為較大的 'HMENU'
+c:\users\tim\desktop\sharelib\smf\smf\slib\control\SPathAsker.h(104): warning C4312: '類型轉換': 將 'const int' 轉換為較大的 'HMENU'
+c:\users\tim\desktop\sharelib\smf\smf\slib\spec\SGuiThread.h(216): warning C4101: 'old_font': 未參考的區域變數
+c:\users\tim\desktop\sharelib\smf\smf\slib\spec\SGuiThread.h(215): warning C4101: 'client_rect': 未參考的區域變數
+c:\users\tim\desktop\sharelib\smf\smf\slib\spec\SGuiThread.h(299): warning C4101: 'i': 未參考的區域變數
+c:\users\tim\desktop\sharelib\smf\smf\slib\spec\SEZLog.h(73): warning C4267: '引數': 將 'size_t' 轉換為 'DWORD'，資料可能遺失
+c:\users\tim\desktop\sharelib\smf\smf\slib\spec\SHiddenThread.h(114): warning C4302: '類型轉換': 從 'LPWSTR' 轉換為 'WORD'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\tim\desktop\sharelib\smf\smf\slib\spec\SMasterThread.h(40): warning C4312: '類型轉換': 將 'DWORD' 轉換為較大的 'HANDLE'
+c:\users\tim\desktop\sharelib\smf\smf\slib\spec\SMasterThread.h(182): warning C4311: '類型轉換': 指標值由 'HANDLE' 指派至 'DWORD' 時會遭截斷
+c:\users\tim\desktop\sharelib\smf\smf\slib\spec\SMasterThread.h(182): warning C4302: '類型轉換': 從 'HANDLE' 轉換為 'DWORD'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  正在產生程式碼
+  All 1561 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+  SMF.vcxproj -> C:\Users\Tim\Desktop\ShareLib\SMF\x64\Release\SMF.exe
+  SMF.vcxproj -> C:\Users\Tim\Desktop\ShareLib\SMF\x64\Release\SMF.pdb (Full PDB)

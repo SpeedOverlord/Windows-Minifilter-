@@ -1,0 +1,14 @@
+﻿  main.cpp
+c:\users\tim\desktop\sharelib\smf\smf\slib\spec\sconfig.h(259): warning C4244: '正在初始化': 將 'LONGLONG' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\tim\desktop\sharelib\smf\smf\slib\spec\sconfig.h(301): warning C4244: '正在初始化': 將 'LONGLONG' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\tim\desktop\sharelib\smf\smf\slib\spec\scache.h(110): warning C4018: '<': signed/unsigned 不相符
+c:\users\tim\desktop\sharelib\smf\smf\slib\control\streeview.h(30): warning C4018: '<': signed/unsigned 不相符
+c:\users\tim\desktop\sharelib\smf\smf\slib\control\streeview.h(198): warning C4018: '<': signed/unsigned 不相符
+c:\users\tim\desktop\sharelib\smf\smf\slib\control\streeview.h(438): warning C4018: '<': signed/unsigned 不相符
+c:\users\tim\desktop\sharelib\smf\smf\slib\control\spathasker.h(118): warning C4018: '<': signed/unsigned 不相符
+c:\users\tim\desktop\sharelib\smf\smf\slib\spec\sguithread.h(216): warning C4101: 'old_font': 未參考的區域變數
+c:\users\tim\desktop\sharelib\smf\smf\slib\spec\sguithread.h(215): warning C4101: 'client_rect': 未參考的區域變數
+c:\users\tim\desktop\sharelib\smf\smf\slib\spec\sguithread.h(299): warning C4101: 'i': 未參考的區域變數
+c:\users\tim\desktop\sharelib\smf\smf\slib\spec\shiddenthread.h(114): warning C4302: '類型轉換': 從 'LPWSTR' 轉換為 'WORD'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  SMF.vcxproj -> C:\Users\Tim\Desktop\ShareLib\SMF\Debug\SMF.exe
+  SMF.vcxproj -> C:\Users\Tim\Desktop\ShareLib\SMF\Debug\SMF.pdb (Full PDB)
